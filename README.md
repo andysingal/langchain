@@ -1,6 +1,8 @@
 # langchain
 Resources:
 - https://www.pinecone.io/learn/langchain-prompt-templates/
+- https://medium.com/better-programming/build-a-chatbot-on-your-csv-data-with-langchain-and-openai-ed121f85f0cd
+- 
 
 |[**langchain tutorial to follow**](https://github.com/gkamradt/langchain-tutorials.git)|
 
